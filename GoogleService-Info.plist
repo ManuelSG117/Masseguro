@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyDwn4hJ0egbMcCtH_rbzNNMLO2MuW7qBXA</string>
+	<string>AIzaSyCo3UWaJ0Do6hAfi7MtU43MF6K8e3XqF_4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>693367224301</string>
+	<string>349219534393</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.masseguro.app</string>
 	<key>PROJECT_ID</key>
-	<string>masseguro-6be2d</string>
+	<string>masseguro-dc41c</string>
 	<key>STORAGE_BUCKET</key>
-	<string>masseguro-6be2d.firebasestorage.app</string>
+	<string>masseguro-dc41c.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:693367224301:ios:fa126930b5d5359448d9e4</string>
+	<string>1:349219534393:ios:f4c56ce76d56662f5d3fe8</string>
 </dict>
 </plist>

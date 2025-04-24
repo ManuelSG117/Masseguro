@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "693367224301",
-    "project_id": "masseguro-6be2d",
-    "storage_bucket": "masseguro-6be2d.firebasestorage.app"
+    "project_number": "349219534393",
+    "project_id": "masseguro-dc41c",
+    "storage_bucket": "masseguro-dc41c.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:693367224301:android:0d8c8180596e23b748d9e4",
+        "mobilesdk_app_id": "1:349219534393:android:b86a86e1cf8735215d3fe8",
         "android_client_info": {
           "package_name": "com.masseguro.app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDpFCY_NwOS9QyPG2-mgDme9kRXgr_tJRI"
+          "current_key": "AIzaSyDCa07npwh-ZI78faczcxdg05oQe-a7H9k"
         }
       ],
       "services": {

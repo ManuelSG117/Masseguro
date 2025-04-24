@@ -13,10 +13,13 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.masseguro.app",
+      "googleServicesFile": "./GoogleService-Info.plist"
     },
     "android": {
       "package": "com.masseguro.app",
+      "googleServicesFile": "./google-services.json",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -37,6 +40,16 @@
       "eas": {
         "projectId": "0bad55ba-4471-4db2-b825-bf448e6beb39"
       }
-    }
+    },
+    "plugins": [
+      "expo-router",
+      ["expo-build-properties",{
+        "ios": {
+        "useFrameworks": "static"
+        }
+      }],
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 export const theme = {
   colors: {
     primary: '#2A4B7C',
-    primaryDark: '#1F3A61', // Versión más oscura del nuevo color
+    primaryDark: '#1F3A61', 
     secondary: '#4285F4',
     error: '#EA4335',
     warning: '#FBBC05',

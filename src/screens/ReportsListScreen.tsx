@@ -182,15 +182,16 @@ const styles = StyleSheet.create({
   },
   searchContainer: {
     padding: theme.spacing.md,
+    paddingBottom: 0,
     backgroundColor: theme.colors.background,
-    ...theme.elevation.small,
   },
   searchInput: {
     margin: 0,
   },
   filterContainer: {
     flexDirection: 'row',
-    padding: theme.spacing.md,
+    paddingHorizontal: theme.spacing.md,
+    paddingBottom: theme.spacing.md,
   },
   filterButton: {
     flex: 1,

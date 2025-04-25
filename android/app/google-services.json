@@ -1,26 +1,51 @@
 {
   "project_info": {
-    "project_number": "693367224301",
-    "project_id": "masseguro-6be2d",
-    "storage_bucket": "masseguro-6be2d.firebasestorage.app"
+    "project_number": "349219534393",
+    "project_id": "masseguro-dc41c",
+    "storage_bucket": "masseguro-dc41c.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:693367224301:android:0d8c8180596e23b748d9e4",
+        "mobilesdk_app_id": "1:349219534393:android:b86a86e1cf8735215d3fe8",
         "android_client_info": {
           "package_name": "com.masseguro.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "349219534393-ptgu62fut33qc6alkt29mv6pnpfr9so7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masseguro.app",
+            "certificate_hash": "2428d4cc37b6206f026ad5d1f7eb341082c575d8"
+          }
+        },
+        {
+          "client_id": "349219534393-kdm59ade5ccbjn3lb5foosapj0vvjenf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyDpFCY_NwOS9QyPG2-mgDme9kRXgr_tJRI"
+          "current_key": "AIzaSyDCa07npwh-ZI78faczcxdg05oQe-a7H9k"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349219534393-kdm59ade5ccbjn3lb5foosapj0vvjenf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349219534393-veg72udi7hp7ogn0qsilo06cv9k82j8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masseguro.app"
+              }
+            }
+          ]
         }
       }
     }

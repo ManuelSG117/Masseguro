@@ -12,7 +12,20 @@
           "package_name": "com.masseguro.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "349219534393-ptgu62fut33qc6alkt29mv6pnpfr9so7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masseguro.app",
+            "certificate_hash": "2428d4cc37b6206f026ad5d1f7eb341082c575d8"
+          }
+        },
+        {
+          "client_id": "349219534393-kdm59ade5ccbjn3lb5foosapj0vvjenf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDCa07npwh-ZI78faczcxdg05oQe-a7H9k"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349219534393-kdm59ade5ccbjn3lb5foosapj0vvjenf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349219534393-veg72udi7hp7ogn0qsilo06cv9k82j8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masseguro.app"
+              }
+            }
+          ]
         }
       }
     }
